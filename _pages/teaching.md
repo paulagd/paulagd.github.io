@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Lecturer in Postgraduate course in Artificial Intelligence with Deep Learning 
+## Lecturer in Postgraduate course in Artificial Intelligence with Deep Learning 
 
 2020-06-01 (UPC School - Barcelona, Spain)
 
@@ -18,7 +18,7 @@ I teach DL lessons at the postgraduate degree Artificial Intelligence with Deep 
 * Recommender Systems 
           
 
-### Associate Professor in Computer Science degree
+## Associate Professor in Computer Science degree
 
 
 2022-02-14 (Universitat of Barcelona - Barcelona, Spain)
