@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2018-10-15-paper-title-number-2
 date: 2018-10-15
 venue: 'ACMM 18'
-paperurl: 'https://doi.org/10.1145/3240508.3241395'
 citation: 'Paula, G. Duran (2018). &quot;Demonstration of an Open Source Framework for Qualitative Evaluation of CBIR Systems.&quot; <i>ACMM 18'.</i>.'
+---
 ---
 
 [Download paper here](https://dl.acm.org/doi/abs/10.1145/3240508.3241395)

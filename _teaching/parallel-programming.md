@@ -7,5 +7,7 @@ venue: "University of Barcelina, Faculty of Mathematics and Computer Science"
 date: 2022-02-02
 location: "Barcelona, Spain"
 ---
+         
+
 
 I teach practical sessions about Parallel Programming subject.

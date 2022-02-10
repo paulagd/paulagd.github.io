@@ -8,6 +8,8 @@ date: 2020-06-01
 location: "Barcelona, Spain"
 ---
 
+
+
 I teach DL lessons at the postgraduate degree Artificial Intelligence with Deep Learning at UPC. My lectures are mainly on:
 
 * Deep Image Retrieval

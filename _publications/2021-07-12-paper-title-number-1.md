@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2021-07-12-paper-title-number-1
 date: 2021-07-12
 venue: 'IEEE Access'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9481221'
 citation: 'Paula, G. Duran (2021). &quot;Graph Convolutional Embeddings for Recommender Systems.&quot; <i>IEEE Access vol9.</i>.'
 ---
 
