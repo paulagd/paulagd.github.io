@@ -1,7 +1,7 @@
 ---
 title: "Demonstration of an Open Source Framework for Qualitative Evaluation of CBIR Systems"
 collection: publications
-permalink: /publication/2021-07-12-paper-title-number-2
+permalink: /publication/2018-10-15-paper-title-number-2
 date: 2018-10-15
 venue: 'ACMM 18'
 paperurl: 'https://doi.org/10.1145/3240508.3241395'

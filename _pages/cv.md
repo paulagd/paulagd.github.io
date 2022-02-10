@@ -68,15 +68,15 @@ Work experience
 
 [comment]: <> (* Skill 3)
 
-[comment]: <> (Publications)
+Publications
 
-[comment]: <> (======)
+======
 
-[comment]: <> (  <ul>{% for post in site.publications %})
+  <ul>{% for post in site.publications %}
 
-[comment]: <> (    {% include archive-single-cv.html %})
+    {% include archive-single-cv.html %}
 
-[comment]: <> (  {% endfor %}</ul>)
+  {% endfor %}</ul>
   
 [comment]: <> (Talks)
 
@@ -88,15 +88,15 @@ Work experience
 
 [comment]: <> (  {% endfor %}</ul>)
   
-[comment]: <> (Teaching)
+Teaching
 
-[comment]: <> (======)
+======
 
-[comment]: <> (  <ul>{% for post in site.teaching %})
+  <ul>{% for post in site.teaching %}
 
-[comment]: <> (    {% include archive-single-cv.html %})
+    {% include archive-single-cv.html %}
 
-[comment]: <> (  {% endfor %}</ul>)
+  {% endfor %}</ul>
   
 [comment]: <> (Service and leadership)
 
