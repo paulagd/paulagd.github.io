@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/postgraduate-AI
 venue: "UPC School (Universitat Politècnica de Catalunya)"
-date: June 2020 - Present
+date: 2020-06-01
 location: "Barcelona, Spain"
 ---
 

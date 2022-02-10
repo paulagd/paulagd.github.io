@@ -4,7 +4,7 @@ collection: teaching
 type: "Degree"
 permalink: /teaching/parallel-programming
 venue: "University of Barcelina, Faculty of Mathematics and Computer Science"
-date: 2022 - Present
+date: 2022-02-02
 location: "Barcelona, Spain"
 ---
 
