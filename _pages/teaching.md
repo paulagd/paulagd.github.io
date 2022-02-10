@@ -3,6 +3,9 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /teaching/
+  - /teaching.html
 ---
 
 {% include base_path %}
@@ -16,3 +19,11 @@ I teach DL lessons at the postgraduate degree Artificial Intelligence with Deep 
 * Deep Image Retrieval
 * Graph Neural Networks
 * Recommender Systems 
+          
+
+### Associate Professor in Computer Science degree
+
+
+2022-02-14 (Universitat of Barcelona - Barcelona, Spain)
+
+I teach practical sessions about Parallel Programming subject.

@@ -1,13 +1,21 @@
----
-title: "Associate Professor"
-collection: teaching
-type: "Degree"
-permalink: /teaching/parallel-programming
-venue: "University of Barcelina, Faculty of Mathematics and Computer Science"
-date: 2022-02-02
-location: "Barcelona, Spain"
----
+[comment]: <> (---)
+
+[comment]: <> (title: "Associate Professor")
+
+[comment]: <> (collection: teaching)
+
+[comment]: <> (type: "Degree")
+
+[comment]: <> (permalink: /teaching/parallel-programming)
+
+[comment]: <> (venue: "University of Barcelina, Faculty of Mathematics and Computer Science")
+
+[comment]: <> (date: 2022-02-02)
+
+[comment]: <> (location: "Barcelona, Spain")
+
+[comment]: <> (---)
          
 
 
-I teach practical sessions about Parallel Programming subject.
+[comment]: <> (I teach practical sessions about Parallel Programming subject.)
