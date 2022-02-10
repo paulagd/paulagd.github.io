@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Graph Convolutional Embeddings for Recommender Systems
+# Graph Convolutional Embeddings for Recommender Systems
 
 2021-07-12 (IEEE Access)
 
@@ -26,7 +26,7 @@ Modern recommender systems (RS) work by processing a number of signals that can 
 
 
 
-## Demonstration of an Open Source Framework for Qualitative Evaluation of CBIR Systems
+# Demonstration of an Open Source Framework for Qualitative Evaluation of CBIR Systems
 
 
 2018-10-15 (ACMM 18')
